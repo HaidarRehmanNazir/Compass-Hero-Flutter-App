@@ -28,8 +28,7 @@ Regular Updates: We're committed to providing the best experience possible, with
 🌟 Join me on this exciting adventure and start exploring the world like never before. Let Compass Hero be your guiding star! 🌟
 
 Download App-----------------
-![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEgnCxYv52bjyckZpL5hDkXM7Fii3ZAsfqpoeZLdSl99v8y7bAdCxVdJ5FwGAl-qXc-44ZAieMJZBaYuHTZa_K3Byn3Hoht-moyJygd8iu1r_Z0134ObVymmFQDurVA2sPZfAuajmCVuqIQ19fjcK09T-Tp_YfJCckX7W7HfLLA3kpGLVHJfgtS4AQPQ)
-
+<a href="https://github.com/HaidarRehmanNazir/Flutter-Snake-Game/releases/download/Snakeee/Snakeee.apk">![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEhYpupn21Uc1_DaEpINY5DMdfcIisS0T0lu4vSOMnZ6pqaTuOIJli4tpqb0eWXUL390G6TWpqbxJn-1GJjxvMGal5SUYPgo2foDYsW9yA3K3ZYByrRsqa3JIJ40OYJcMebOMwM5cfjWsBb3AUZQEE6yRt1ZiUKZcf1lXUxMX08hJqrdtBjF2pC-WV2i)</a>
 
 
 
@@ -43,7 +42,7 @@ Download App-----------------
 - [@Haidar Rehman](https://github.com/HaidarRehmanNazir)
 
 
-<a href="https://github.com/HaidarRehmanNazir/Flutter-Snake-Game/releases/download/Snakeee/Snakeee.apk">![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEhYpupn21Uc1_DaEpINY5DMdfcIisS0T0lu4vSOMnZ6pqaTuOIJli4tpqb0eWXUL390G6TWpqbxJn-1GJjxvMGal5SUYPgo2foDYsW9yA3K3ZYByrRsqa3JIJ40OYJcMebOMwM5cfjWsBb3AUZQEE6yRt1ZiUKZcf1lXUxMX08hJqrdtBjF2pC-WV2i)</a>
+
 
 
 ## Tech Stack
