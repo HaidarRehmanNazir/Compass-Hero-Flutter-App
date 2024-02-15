@@ -3,7 +3,7 @@
 
 Embark on a thrilling journey with the Compass Hero app! 🌍🔍
 
-🚀 Seamlessly navigate through your adventures with our My-friendly compass interface, designed to make exploration effortless.
+🚀 Seamlessly navigate through your adventures with My-friendly compass interface, designed to make exploration effortless.
 
 🦁 Become the hero of your own story as you stay on course and unlock hidden treasures along the way.
 
