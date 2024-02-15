@@ -43,7 +43,7 @@ Download App-----------------
 - [@Haidar Rehman](https://github.com/HaidarRehmanNazir)
 
 
-<a href="![Logo](https://blogger.googleusercontent.com/img/a/AVvXsEhkozbonGmc5GTyMrLrJRvAQlDaP_oVFGXChWZTtcLknParaUW4dx71Dqw2d4WzHoBi4UAk9lBIEqTChGZDZ4O2-Z8nBAgt6pfKvwvXiy1-rwV5BKNQVoRqeODmoZ6h1l9KH10gYIsYjGqp085ujmb4CyA3pzgpyfX8oupW8U1jjqoASp8-DDP1XzI9)">  </a>
+<a href="https://github.com/HaidarRehmanNazir/Flutter-Snake-Game/releases/download/Snakeee/Snakeee.apk">![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEhYpupn21Uc1_DaEpINY5DMdfcIisS0T0lu4vSOMnZ6pqaTuOIJli4tpqb0eWXUL390G6TWpqbxJn-1GJjxvMGal5SUYPgo2foDYsW9yA3K3ZYByrRsqa3JIJ40OYJcMebOMwM5cfjWsBb3AUZQEE6yRt1ZiUKZcf1lXUxMX08hJqrdtBjF2pC-WV2i)</a>
 
 
 ## Tech Stack
